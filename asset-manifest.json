@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/css/main.fff44bee.css",
-    "main.js": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/js/main.a6743e70.js",
+    "main.css": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/css/main.0009ee8f.css",
+    "main.js": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/js/main.b4101f47.js",
     "static/js/787.f8176370.chunk.js": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/js/787.f8176370.chunk.js",
     "static/media/night-sky.png": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/media/night-sky.88fabf0357fc49eef173.png",
     "index.html": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/index.html",
-    "main.fff44bee.css.map": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/css/main.fff44bee.css.map",
-    "main.a6743e70.js.map": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/js/main.a6743e70.js.map",
+    "main.0009ee8f.css.map": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/css/main.0009ee8f.css.map",
+    "main.b4101f47.js.map": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/js/main.b4101f47.js.map",
     "787.f8176370.chunk.js.map": "https://cse442-22au.pages.cs.washington.edu/fp/WhereWhenYouFlyV2/static/js/787.f8176370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fff44bee.css",
-    "static/js/main.a6743e70.js"
+    "static/css/main.0009ee8f.css",
+    "static/js/main.b4101f47.js"
   ]
 }
