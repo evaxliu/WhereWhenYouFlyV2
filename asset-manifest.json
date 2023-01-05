@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://wwyfv2.jhyn.dev/static/css/main.f181fed2.css",
-    "main.js": "https://wwyfv2.jhyn.dev/static/js/main.085b179b.js",
+    "main.css": "https://wwyfv2.jhyn.dev/static/css/main.033376f2.css",
+    "main.js": "https://wwyfv2.jhyn.dev/static/js/main.45bee346.js",
     "static/js/787.f8176370.chunk.js": "https://wwyfv2.jhyn.dev/static/js/787.f8176370.chunk.js",
     "static/media/night-sky.png": "https://wwyfv2.jhyn.dev/static/media/night-sky.88fabf0357fc49eef173.png",
     "index.html": "https://wwyfv2.jhyn.dev/index.html",
-    "main.f181fed2.css.map": "https://wwyfv2.jhyn.dev/static/css/main.f181fed2.css.map",
-    "main.085b179b.js.map": "https://wwyfv2.jhyn.dev/static/js/main.085b179b.js.map",
+    "main.033376f2.css.map": "https://wwyfv2.jhyn.dev/static/css/main.033376f2.css.map",
+    "main.45bee346.js.map": "https://wwyfv2.jhyn.dev/static/js/main.45bee346.js.map",
     "787.f8176370.chunk.js.map": "https://wwyfv2.jhyn.dev/static/js/787.f8176370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f181fed2.css",
-    "static/js/main.085b179b.js"
+    "static/css/main.033376f2.css",
+    "static/js/main.45bee346.js"
   ]
 }
